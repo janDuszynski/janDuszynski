@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 GTFS-RT data analysis<br>⚡ SQL Alchemy + flask<br>❤️ Trams and trains
+📧 jasiek.duszynski@gmail.com <br>
+<a href="https://discord.gg/jasieq#4195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jasieq#4195" height="30" width="40" /></a> <br>
+🔭 GTFS-RT data analysis<br>
+⚡ SQL Alchemy + flask<br>
+❤️ Trams and trains<br>
 
 
 # 💻 Tech Stack:
