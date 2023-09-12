@@ -1,8 +1,8 @@
 # 💫 About Me:
 📧 jasiek.duszynski@gmail.com <br>
 🔭 GTFS-RT data analysis<br>
-⚡ SQL Alchemy + flask<br>
-❤️ Trams and trains<br>
+⚡ Python<br>
+❤️ Railway<br>
 
 
 # 💻 Tech Stack:
