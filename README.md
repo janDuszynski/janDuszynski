@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jan Duszyński</h1>
-<dl>
-  <li>🔭 I’m currently working on **Python, JS and Swift**</li>
-  <li>📫 How to reach me? **jasiek.duszynski@gmail.com**</li>
-  <li>❤️ Railway</li>
-</dl>
+
+- 🔭 I’m currently working on **Python, JS and Swift**
+- 📫 How to reach me? **jasiek.duszynski@gmail.com**
+- ❤️ Railway
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
