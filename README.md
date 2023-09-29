@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jan Duszyński</h1>
-- 🔭 I’m currently working on **Python, JS and Swift**
-- 📫 How to reach me? **jasiek.duszynski@gmail.com**
-- ❤️ Railway
-  
+<dl>
+  <li>🔭 I’m currently working on **Python, JS and Swift**</li>
+  <li>📫 How to reach me? **jasiek.duszynski@gmail.com**</li>
+  <li>❤️ Railway</li>
+</dl>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jan duszyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan duszyński" height="30" width="40" /></a>
