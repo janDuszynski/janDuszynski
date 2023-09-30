@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jan Duszyński</h1>
 
 - 🔭 I’m currently working on **Python, JS and Swift**
-- 📫 How to reach me? **jasiek.duszynski@gmail.com**
+- 📫 How to reach me? **jan.duszynski@icloud.com**
 - ❤️ Railway
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jan duszyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan duszyński" height="30" width="40" /></a>
-<a href="https://fb.com/jan duszyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jan duszyński" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jan.duch.1671/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jan duszyński" height="30" width="40" /></a>
 <a href="https://instagram.com/jasiek_duch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasiek_duch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jasieq6941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jasieq6941" height="30" width="40" /></a>
+<a href="https://youtube.com/@jasieq6941?si=DDxGUdcZd9qzeIGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jasieq6941" height="30" width="40" /></a>
 <a href="https://discord.gg/jasieq." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jasieq" height="30" width="40" /></a>
 </p>
 
