@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Duszyński</h1>
 
-- 🔭 I’m currently working on **Python, JS and Swift**
 - 📫 How to reach me? **janduszynski@icloud.com**
 - ❤️ Railway
 
